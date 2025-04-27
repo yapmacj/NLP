@@ -1,0 +1,7 @@
+Model: stemmed_skipgram_window4_dim300
+Preprocessing: Stemmed
+Training Type: Skip-Gram
+Window Size: 4
+Vector Size: 300
+Minimum Word Frequency (min_count): 2
+SkipGram (sg): 1
