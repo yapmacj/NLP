@@ -1,0 +1,9 @@
+# Büyük CSV dosyalarını dışla
+tfidf_lemmatized.csv
+tfidf_stemmed.csv
+
+# Geçici ve sistem dosyaları
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
