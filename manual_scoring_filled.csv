@@ -1,0 +1,81 @@
+model_name,suggestion_rank,suggestion_text,your_score_1_to_5
+lemmatized_cbow_window2_dim100,1,feck bet penalti favor real madrid,5
+lemmatized_cbow_window2_dim100,2,unusual behavior real madrid pearl,3
+lemmatized_cbow_window2_dim100,3,shameful behavior real madrid,4
+lemmatized_cbow_window2_dim100,4,penalti favor del real madrid,5
+lemmatized_cbow_window2_dim100,5,generational headloss real madrid bench,3
+lemmatized_cbow_window2_dim300,1,feck bet penalti favor real madrid,5
+lemmatized_cbow_window2_dim300,2,shameful behavior real madrid,4
+lemmatized_cbow_window2_dim300,3,unusual behavior real madrid pearl,3
+lemmatized_cbow_window2_dim300,4,generational headloss real madrid bench,3
+lemmatized_cbow_window2_dim300,5,penalti favor del real madrid,5
+lemmatized_cbow_window4_dim100,1,feck bet penalti favor real madrid,5
+lemmatized_cbow_window4_dim100,2,ffs real madrid pathetic,3
+lemmatized_cbow_window4_dim100,3,real madrid becoming donald trump,3
+lemmatized_cbow_window4_dim100,4,unusual behavior real madrid pearl,3
+lemmatized_cbow_window4_dim100,5,generational headloss real madrid bench,3
+lemmatized_cbow_window4_dim300,1,feck bet penalti favor real madrid,5
+lemmatized_cbow_window4_dim300,2,ffs real madrid pathetic,3
+lemmatized_cbow_window4_dim300,3,real madrid becoming donald trump,3
+lemmatized_cbow_window4_dim300,4,real madrid collapse insane,3
+lemmatized_cbow_window4_dim300,5,nah real madrid probaly,3
+lemmatized_skipgram_window2_dim100,1,feck bet penalti favor real madrid,5
+lemmatized_skipgram_window2_dim100,2,anagram real madrid riled drama,3
+lemmatized_skipgram_window2_dim100,3,real madrid collapse insane,3
+lemmatized_skipgram_window2_dim100,4,real madrid becoming donald trump,3
+lemmatized_skipgram_window2_dim100,5,typical real madrid whiny bullshit,3
+lemmatized_skipgram_window2_dim300,1,feck bet penalti favor real madrid,5
+lemmatized_skipgram_window2_dim300,2,real madrid collapse insane,3
+lemmatized_skipgram_window2_dim300,3,anagram real madrid riled drama,3
+lemmatized_skipgram_window2_dim300,4,real madrid becoming donald trump,3
+lemmatized_skipgram_window2_dim300,5,typical real madrid whiny bullshit,3
+lemmatized_skipgram_window4_dim100,1,feck bet penalti favor real madrid,5
+lemmatized_skipgram_window4_dim100,2,anagram real madrid riled drama,3
+lemmatized_skipgram_window4_dim100,3,real madrid collapse insane,3
+lemmatized_skipgram_window4_dim100,4,real madrid rattled lololol,3
+lemmatized_skipgram_window4_dim100,5,realjilling real madrid fucker,3
+lemmatized_skipgram_window4_dim300,1,feck bet penalti favor real madrid,5
+lemmatized_skipgram_window4_dim300,2,anagram real madrid riled drama,3
+lemmatized_skipgram_window4_dim300,3,real madrid collapse insane,3
+lemmatized_skipgram_window4_dim300,4,amazing work rate real madrid front 3 real madrid tv,3
+lemmatized_skipgram_window4_dim300,5,thats real madrid effect,3
+stemmed_cbow_window2_dim100,1,feck bet penalti favor real madrid,5
+stemmed_cbow_window2_dim100,2,penalti favor del real madrid,5
+stemmed_cbow_window2_dim100,3,penalti al favor del real madrid,5
+stemmed_cbow_window2_dim100,4,penalty al favor del real madrid,4
+stemmed_cbow_window2_dim100,5,amazing work rate real madrid front 3 real madrid tv,3
+stemmed_cbow_window2_dim300,1,feck bet penalti favor real madrid,5
+stemmed_cbow_window2_dim300,2,penalti favor del real madrid,5
+stemmed_cbow_window2_dim300,3,penalti al favor del real madrid,5
+stemmed_cbow_window2_dim300,4,penalty al favor del real madrid,4
+stemmed_cbow_window2_dim300,5,real madrid looking ref anger eye,3
+stemmed_cbow_window4_dim100,1,feck bet penalti favor real madrid,5
+stemmed_cbow_window4_dim100,2,penalti favor del real madrid,5
+stemmed_cbow_window4_dim100,3,penalti al favor del real madrid,5
+stemmed_cbow_window4_dim100,4,real madrid looking ref anger eye,3
+stemmed_cbow_window4_dim100,5,real madrid ref pressuring tactic worked,3
+stemmed_cbow_window4_dim300,1,feck bet penalti favor real madrid,5
+stemmed_cbow_window4_dim300,2,penalti favor del real madrid,5
+stemmed_cbow_window4_dim300,3,bu bu thought ref real madrid according,3
+stemmed_cbow_window4_dim300,4,real madrid looking ref anger eye,3
+stemmed_cbow_window4_dim300,5,real madrid ref pressuring tactic worked,3
+stemmed_skipgram_window2_dim100,1,feck bet penalti favor real madrid,5
+stemmed_skipgram_window2_dim100,2,penalti favor del real madrid,5
+stemmed_skipgram_window2_dim100,3,penalti al favor del real madrid,5
+stemmed_skipgram_window2_dim100,4,real madrid var,3
+stemmed_skipgram_window2_dim100,5,pen getting given faster real madrid paying ref,3
+stemmed_skipgram_window2_dim300,1,feck bet penalti favor real madrid,5
+stemmed_skipgram_window2_dim300,2,penalti favor del real madrid,5
+stemmed_skipgram_window2_dim300,3,penalti al favor del real madrid,5
+stemmed_skipgram_window2_dim300,4,real madrid var,3
+stemmed_skipgram_window2_dim300,5,pen getting given faster real madrid paying ref,3
+stemmed_skipgram_window4_dim100,1,feck bet penalti favor real madrid,5
+stemmed_skipgram_window4_dim100,2,real madrid var,3
+stemmed_skipgram_window4_dim100,3,pen getting given faster real madrid paying ref,3
+stemmed_skipgram_window4_dim100,4,penalti favor del real madrid,5
+stemmed_skipgram_window4_dim100,5,florentino allows review favor madrid,1
+stemmed_skipgram_window4_dim300,1,feck bet penalti favor real madrid,5
+stemmed_skipgram_window4_dim300,2,real madrid var,3
+stemmed_skipgram_window4_dim300,3,penalti favor del real madrid,5
+stemmed_skipgram_window4_dim300,4,pen getting given faster real madrid paying ref,3
+stemmed_skipgram_window4_dim300,5,penalti al favor del real madrid,5

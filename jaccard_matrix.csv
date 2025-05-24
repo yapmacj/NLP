@@ -1,0 +1,17 @@
+,lemmatized_cbow_window2_dim100,lemmatized_cbow_window2_dim300,lemmatized_cbow_window4_dim100,lemmatized_cbow_window4_dim300,lemmatized_skipgram_window2_dim100,lemmatized_skipgram_window2_dim300,lemmatized_skipgram_window4_dim100,lemmatized_skipgram_window4_dim300,stemmed_cbow_window2_dim100,stemmed_cbow_window2_dim300,stemmed_cbow_window4_dim100,stemmed_cbow_window4_dim300,stemmed_skipgram_window2_dim100,stemmed_skipgram_window2_dim300,stemmed_skipgram_window4_dim100,stemmed_skipgram_window4_dim300
+lemmatized_cbow_window2_dim100,1.0,1.0,0.429,0.111,0.111,0.111,0.111,0.111,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25
+lemmatized_cbow_window2_dim300,1.0,1.0,0.429,0.111,0.111,0.111,0.111,0.111,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25
+lemmatized_cbow_window4_dim100,0.429,0.429,1.0,0.429,0.25,0.25,0.111,0.111,0.111,0.111,0.111,0.111,0.111,0.111,0.111,0.111
+lemmatized_cbow_window4_dim300,0.111,0.111,0.429,1.0,0.429,0.429,0.25,0.25,0.111,0.111,0.111,0.111,0.111,0.111,0.111,0.111
+lemmatized_skipgram_window2_dim100,0.111,0.111,0.25,0.429,1.0,1.0,0.429,0.429,0.111,0.111,0.111,0.111,0.111,0.111,0.111,0.111
+lemmatized_skipgram_window2_dim300,0.111,0.111,0.25,0.429,1.0,1.0,0.429,0.429,0.111,0.111,0.111,0.111,0.111,0.111,0.111,0.111
+lemmatized_skipgram_window4_dim100,0.111,0.111,0.111,0.25,0.429,0.429,1.0,0.429,0.111,0.111,0.111,0.111,0.111,0.111,0.111,0.111
+lemmatized_skipgram_window4_dim300,0.111,0.111,0.111,0.25,0.429,0.429,0.429,1.0,0.25,0.111,0.111,0.111,0.111,0.111,0.111,0.111
+stemmed_cbow_window2_dim100,0.25,0.25,0.111,0.111,0.111,0.111,0.111,0.25,1.0,0.667,0.429,0.25,0.429,0.429,0.25,0.429
+stemmed_cbow_window2_dim300,0.25,0.25,0.111,0.111,0.111,0.111,0.111,0.111,0.667,1.0,0.667,0.429,0.429,0.429,0.25,0.429
+stemmed_cbow_window4_dim100,0.25,0.25,0.111,0.111,0.111,0.111,0.111,0.111,0.429,0.667,1.0,0.667,0.429,0.429,0.25,0.429
+stemmed_cbow_window4_dim300,0.25,0.25,0.111,0.111,0.111,0.111,0.111,0.111,0.25,0.429,0.667,1.0,0.25,0.25,0.25,0.25
+stemmed_skipgram_window2_dim100,0.25,0.25,0.111,0.111,0.111,0.111,0.111,0.111,0.429,0.429,0.429,0.25,1.0,1.0,0.667,1.0
+stemmed_skipgram_window2_dim300,0.25,0.25,0.111,0.111,0.111,0.111,0.111,0.111,0.429,0.429,0.429,0.25,1.0,1.0,0.667,1.0
+stemmed_skipgram_window4_dim100,0.25,0.25,0.111,0.111,0.111,0.111,0.111,0.111,0.25,0.25,0.25,0.25,0.667,0.667,1.0,0.667
+stemmed_skipgram_window4_dim300,0.25,0.25,0.111,0.111,0.111,0.111,0.111,0.111,0.429,0.429,0.429,0.25,1.0,1.0,0.667,1.0

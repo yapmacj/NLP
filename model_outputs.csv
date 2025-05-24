@@ -1,0 +1,81 @@
+model_name,suggestion_rank,suggestion_text,similarity
+lemmatized_cbow_window2_dim100,1,feck bet penalti favor real madrid,1.0
+lemmatized_cbow_window2_dim100,2,unusual behavior real madrid pearl,0.9998424649238586
+lemmatized_cbow_window2_dim100,3,shameful behavior real madrid,0.9998160004615784
+lemmatized_cbow_window2_dim100,4,penalti favor del real madrid,0.9998096227645874
+lemmatized_cbow_window2_dim100,5,generational headloss real madrid bench,0.9997890591621399
+lemmatized_cbow_window2_dim300,1,feck bet penalti favor real madrid,1.0
+lemmatized_cbow_window2_dim300,2,shameful behavior real madrid,0.9999295473098755
+lemmatized_cbow_window2_dim300,3,unusual behavior real madrid pearl,0.9999011754989624
+lemmatized_cbow_window2_dim300,4,generational headloss real madrid bench,0.9998912811279297
+lemmatized_cbow_window2_dim300,5,penalti favor del real madrid,0.9998704195022583
+lemmatized_cbow_window4_dim100,1,feck bet penalti favor real madrid,1.0
+lemmatized_cbow_window4_dim100,2,ffs real madrid pathetic,0.9998527765274048
+lemmatized_cbow_window4_dim100,3,real madrid becoming donald trump,0.9998347163200378
+lemmatized_cbow_window4_dim100,4,unusual behavior real madrid pearl,0.9997857213020325
+lemmatized_cbow_window4_dim100,5,generational headloss real madrid bench,0.9997575879096985
+lemmatized_cbow_window4_dim300,1,feck bet penalti favor real madrid,1.0
+lemmatized_cbow_window4_dim300,2,ffs real madrid pathetic,0.999912440776825
+lemmatized_cbow_window4_dim300,3,real madrid becoming donald trump,0.9999006986618042
+lemmatized_cbow_window4_dim300,4,real madrid collapse insane,0.9998923540115356
+lemmatized_cbow_window4_dim300,5,nah real madrid probaly,0.9998429417610168
+lemmatized_skipgram_window2_dim100,1,feck bet penalti favor real madrid,0.9999999403953552
+lemmatized_skipgram_window2_dim100,2,anagram real madrid riled drama,0.9983779788017273
+lemmatized_skipgram_window2_dim100,3,real madrid collapse insane,0.9983474016189575
+lemmatized_skipgram_window2_dim100,4,real madrid becoming donald trump,0.9979426860809326
+lemmatized_skipgram_window2_dim100,5,typical real madrid whiny bullshit,0.997446596622467
+lemmatized_skipgram_window2_dim300,1,feck bet penalti favor real madrid,1.0000001192092896
+lemmatized_skipgram_window2_dim300,2,real madrid collapse insane,0.9992673397064209
+lemmatized_skipgram_window2_dim300,3,anagram real madrid riled drama,0.9987515211105347
+lemmatized_skipgram_window2_dim300,4,real madrid becoming donald trump,0.9981104135513306
+lemmatized_skipgram_window2_dim300,5,typical real madrid whiny bullshit,0.9980960488319397
+lemmatized_skipgram_window4_dim100,1,feck bet penalti favor real madrid,1.0
+lemmatized_skipgram_window4_dim100,2,anagram real madrid riled drama,0.9964650273323059
+lemmatized_skipgram_window4_dim100,3,real madrid collapse insane,0.9956822991371155
+lemmatized_skipgram_window4_dim100,4,real madrid rattled lololol,0.9935892820358276
+lemmatized_skipgram_window4_dim100,5,realjilling real madrid fucker,0.9934407472610474
+lemmatized_skipgram_window4_dim300,1,feck bet penalti favor real madrid,1.0000001192092896
+lemmatized_skipgram_window4_dim300,2,anagram real madrid riled drama,0.998302161693573
+lemmatized_skipgram_window4_dim300,3,real madrid collapse insane,0.9976428747177124
+lemmatized_skipgram_window4_dim300,4,amazing work rate real madrid front 3 real madrid tv,0.9949269890785217
+lemmatized_skipgram_window4_dim300,5,thats real madrid effect,0.9949149489402771
+stemmed_cbow_window2_dim100,1,feck bet penalti favor real madrid,1.0
+stemmed_cbow_window2_dim100,2,penalti favor del real madrid,0.9999033212661743
+stemmed_cbow_window2_dim100,3,penalti al favor del real madrid,0.9989339113235474
+stemmed_cbow_window2_dim100,4,penalty al favor del real madrid,0.9982963800430298
+stemmed_cbow_window2_dim100,5,amazing work rate real madrid front 3 real madrid tv,0.997359037399292
+stemmed_cbow_window2_dim300,1,feck bet penalti favor real madrid,1.0
+stemmed_cbow_window2_dim300,2,penalti favor del real madrid,0.9999554753303528
+stemmed_cbow_window2_dim300,3,penalti al favor del real madrid,0.9991156458854675
+stemmed_cbow_window2_dim300,4,penalty al favor del real madrid,0.9990076422691345
+stemmed_cbow_window2_dim300,5,real madrid looking ref anger eye,0.998988687992096
+stemmed_cbow_window4_dim100,1,feck bet penalti favor real madrid,1.0000001192092896
+stemmed_cbow_window4_dim100,2,penalti favor del real madrid,0.999794065952301
+stemmed_cbow_window4_dim100,3,penalti al favor del real madrid,0.9982456564903259
+stemmed_cbow_window4_dim100,4,real madrid looking ref anger eye,0.9978793859481812
+stemmed_cbow_window4_dim100,5,real madrid ref pressuring tactic worked,0.9978445172309875
+stemmed_cbow_window4_dim300,1,feck bet penalti favor real madrid,1.000000238418579
+stemmed_cbow_window4_dim300,2,penalti favor del real madrid,0.9998657703399658
+stemmed_cbow_window4_dim300,3,bu bu thought ref real madrid according,0.9990948438644409
+stemmed_cbow_window4_dim300,4,real madrid looking ref anger eye,0.9990746974945068
+stemmed_cbow_window4_dim300,5,real madrid ref pressuring tactic worked,0.9989113807678223
+stemmed_skipgram_window2_dim100,1,feck bet penalti favor real madrid,1.0
+stemmed_skipgram_window2_dim100,2,penalti favor del real madrid,0.9945564270019531
+stemmed_skipgram_window2_dim100,3,penalti al favor del real madrid,0.9939524531364441
+stemmed_skipgram_window2_dim100,4,real madrid var,0.9872395396232605
+stemmed_skipgram_window2_dim100,5,pen getting given faster real madrid paying ref,0.9869263172149658
+stemmed_skipgram_window2_dim300,1,feck bet penalti favor real madrid,1.0
+stemmed_skipgram_window2_dim300,2,penalti favor del real madrid,0.9965794682502747
+stemmed_skipgram_window2_dim300,3,penalti al favor del real madrid,0.9954630732536316
+stemmed_skipgram_window2_dim300,4,real madrid var,0.989957869052887
+stemmed_skipgram_window2_dim300,5,pen getting given faster real madrid paying ref,0.9897186160087585
+stemmed_skipgram_window4_dim100,1,feck bet penalti favor real madrid,0.9999999403953552
+stemmed_skipgram_window4_dim100,2,real madrid var,0.988025426864624
+stemmed_skipgram_window4_dim100,3,pen getting given faster real madrid paying ref,0.9869511127471924
+stemmed_skipgram_window4_dim100,4,penalti favor del real madrid,0.9865264892578125
+stemmed_skipgram_window4_dim100,5,florentino allows review favor madrid,0.9855301380157471
+stemmed_skipgram_window4_dim300,1,feck bet penalti favor real madrid,1.0
+stemmed_skipgram_window4_dim300,2,real madrid var,0.9910818338394165
+stemmed_skipgram_window4_dim300,3,penalti favor del real madrid,0.9887043833732605
+stemmed_skipgram_window4_dim300,4,pen getting given faster real madrid paying ref,0.9878071546554565
+stemmed_skipgram_window4_dim300,5,penalti al favor del real madrid,0.9870966076850891

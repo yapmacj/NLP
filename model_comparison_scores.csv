@@ -1,0 +1,17 @@
+model_name,average_cosine_similarity,average_manual_score
+stemmed_cbow_window2_dim300,0.9994134902954102,4.4
+stemmed_cbow_window2_dim100,0.9988985300064088,4.4
+stemmed_cbow_window4_dim100,0.998752748966217,4.2
+stemmed_skipgram_window2_dim300,0.9943438053131104,4.2
+stemmed_skipgram_window2_dim100,0.9925349473953248,4.2
+stemmed_skipgram_window4_dim300,0.9909379959106446,4.2
+lemmatized_cbow_window2_dim300,0.9999184846878052,4.0
+lemmatized_cbow_window2_dim100,0.9998514294624328,4.0
+stemmed_cbow_window4_dim300,0.999389386177063,3.8
+lemmatized_cbow_window4_dim300,0.9999096870422364,3.4
+lemmatized_cbow_window4_dim100,0.9998461604118348,3.4
+lemmatized_skipgram_window2_dim300,0.9988450884819032,3.4
+lemmatized_skipgram_window2_dim100,0.998422920703888,3.4
+lemmatized_skipgram_window4_dim300,0.9971574187278748,3.4
+lemmatized_skipgram_window4_dim100,0.9958354711532592,3.4
+stemmed_skipgram_window4_dim100,0.9894066214561462,3.4
